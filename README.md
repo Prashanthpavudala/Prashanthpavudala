@@ -165,7 +165,7 @@ study = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Prashanthpavudala&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hPrashanthpavudala&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanthpavudala&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanthpavudala&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
