@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  ╚═╝  ╚═╝
 ```
 
-### Full Stack Engineer · Backend Systems · ML Research
+### Software Engineer · Backend Systems · ML Research
 #### `Java` · `Spring Boot` · `Python` · `FastAPI` · `ReactJS` · `Distributed Systems`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-reddy-pavudala-0ba3b31b4/)
@@ -29,7 +29,7 @@ Backend engineer by instinct, full stack when I have to be. Three years at Magic
 
 Java is like a home. But I picked up Go recently and it clicked fast — goroutines make concurrency feel like something you control rather than something you manage around. I get why people love it for services.
 
-At UMBC now for the MS. The coursework has been broader than I expected: **Machine Learning**, **Data Science**, **Distributed Systems**, **Design & Analysis of Algorithms**, **Advanced Computer Architecture**, **Active Cyberdefense**, **Mobile App Development**. Some of it I knew. A lot of it I didn't. The security and architecture courses in particular changed how I think about systems — not just does it work, but does it hold up.
+At UMBC now for the MS. The coursework inlcudes: **Distributed Systems**, **Design & Analysis of Algorithms**, **Advanced Computer Architecture**, **Machine Learning**, **Data Science**, **Active Cyberdefense**, **Mobile App Development**. Some of it I knew. A lot of it I didn't. The security and architecture courses in particular changed how I think about systems — not just does it work, but does it hold up.
 
 > `Java · Go · Spring Boot · Kafka · Redis · ReactJS · REST APIs · gRPC · GraphQL · Distributed Systems`
 
@@ -105,7 +105,7 @@ At UMBC now for the MS. The coursework has been broader than I expected: **Machi
 | 🎓 B.Tech Electronics & Comm. Eng. | NIT Silchar, India | Jul 2018 – May 2022 |
 
 **MS Coursework @ UMBC:**
-`Intro to Machine Learning` · `Intro to Data Science` · `Distributed Systems` · `Design & Analysis of Algorithms` · `Advanced Computer Architecture` · `Active Cyberdefense` · `Mobile Apps Development`
+`Distributed Systems` · `Design & Analysis of Algorithms` · `Advanced Computer Architecture` · `Intro to Machine Learning` · `Intro to Data Science` · `Active Cyberdefense` · `Mobile Apps Development`
 
 ---
 
@@ -128,7 +128,7 @@ At UMBC now for the MS. The coursework has been broader than I expected: **Machi
  fast, reliable, invisible to the user."
 ```
 
-⚡ **Fun fact:** I came from an ECE background — started with circuits, ended up obsessing over goroutines.
+⚡ **Fun fact:** I came from an ECE background - started with circuits, ended up obsessing over goroutines.
 
 *Open to Software Engineering roles · Internships · Research collaborations*
 
