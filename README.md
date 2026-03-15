@@ -23,17 +23,19 @@
 
 ---
 
-## `> whoami`
+## `> about_me`
 
-Backend engineer by instinct, full stack by necessity. I spent two years at Magicbricks shipping Java and Spring Boot services that handled real traffic — payment automation, lead pipelines, API integrations. The kind of work where a slow query costs money and a dropped message loses a lead.
+Backend engineer by instinct, full stack when I have to be. Three years at Magicbricks writing Java and Spring Boot services under real load — payment automation, Kafka pipelines pushing millions of leads, Redis caching shaving 25% off response times. The kind of job where a missed lead data has a dollar value.
 
-Now at UMBC for my MS, I'm going deeper: distributed systems on the theory side, diffusion models and computer vision on the research side, Android on the coursework side. My language of choice is Java, but I pick up whatever the problem needs.
+Java is like a home. But I picked up Go recently and it clicked fast — goroutines make concurrency feel like something you control rather than something you manage around. I get why people love it for services.
 
-> `Java · Spring Boot · Kafka · Redis · ReactJS · REST APIs · SQL · Distributed Systems`
+At UMBC now for the MS. The coursework has been broader than I expected: **Machine Learning**, **Data Science**, **Distributed Systems**, **Design & Analysis of Algorithms**, **Advanced Computer Architecture**, **Active Cyberdefense**, **Mobile App Development**. Some of it I knew. A lot of it I didn't. The security and architecture courses in particular changed how I think about systems — not just does it work, but does it hold up.
+
+> `Java · Go · Spring Boot · Kafka · Redis · ReactJS · REST APIs · gRPC · GraphQL · Distributed Systems`
 
 ---
 
-## `> tech_stack --list`
+## `> tech_stacks`
 
 <div align="center">
 
@@ -58,6 +60,8 @@ Now at UMBC for my MS, I'm going deeper: distributed systems on the theory side,
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### Databases & Messaging
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -100,6 +104,9 @@ Now at UMBC for my MS, I'm going deeper: distributed systems on the theory side,
 | 🎓 MS Computer Science | University of Maryland, Baltimore County | Jan 2025 – Dec 2026 |
 | 🎓 B.Tech Electronics & Comm. Eng. | NIT Silchar, India | Jul 2018 – May 2022 |
 
+**MS Coursework @ UMBC:**
+`Intro to Machine Learning` · `Intro to Data Science` · `Distributed Systems` · `Design & Analysis of Algorithms` · `Advanced Computer Architecture` · `Active Cyberdefense` · `Mobile Apps Development`
+
 ---
 
 ## `> github_stats`
@@ -120,6 +127,8 @@ Now at UMBC for my MS, I'm going deeper: distributed systems on the theory side,
 "The best systems are the ones that disappear —
  fast, reliable, invisible to the user."
 ```
+
+⚡ **Fun fact:** I came from an ECE background — started with circuits, ended up obsessing over goroutines.
 
 *Open to Software Engineering roles · Internships · Research collaborations*
 
